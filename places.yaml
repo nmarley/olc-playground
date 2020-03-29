@@ -1,0 +1,16 @@
+---
+# places.yaml - Mapping of places to plus codes
+#
+# Discover / map out plus codes: https://plus.codes/map/
+
+- place: 780 Floripa
+  addr: R. Rev. Gélson dos Santos Castro - 780, Rio Tavares, Florianópolis, SC, Brasil 88048-340
+  code: 584H8GP7+8J
+
+- place: 1202 BVille
+  addr: 1202 SE 22ND ST, Bentonville, Arkansas, USA 72712-6852
+  code: 86878RX3+8R
+
+- place: Pocitos Area, Montevideo
+  addr: Gabriel Pereira 3101, 11300 Montevideo, Departamento de Montevideo, Uruguay
+  code: 48Q53VR2+PG
